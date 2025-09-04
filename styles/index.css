@@ -1,0 +1,13 @@
+@import url(global.css);
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
