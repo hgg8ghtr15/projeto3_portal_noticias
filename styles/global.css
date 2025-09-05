@@ -44,3 +44,21 @@ a:hover {
 li {
   list-style: none;
 }
+
+.containner {
+  width: 1280px;
+  padding-inline: 32px;
+}
+
+/* Classe utilitarias */
+.grid{
+  display: grid;
+}
+
+.grid-flow-col {
+  grid-auto-flow: column;
+}
+
+.grid-flow-row {
+  grid-auto-flow: row;
+}
